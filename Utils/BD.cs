@@ -7,7 +7,7 @@ using Pizzas.API.Models;
 
 namespace Pizzas.API.Utils
 {
-
+// test
     public static class BD
     {
         private static string _connectionString = @$"Server=A-PHZ2-CEO-013;DataBase=DAI-Pizzas;Trusted_Connection=True";
